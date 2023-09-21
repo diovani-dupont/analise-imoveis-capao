@@ -13,4 +13,3 @@
 📋 **Este é um projeto pessoal de ciência de dados em que foram coletados dados de anúncios imobiliários usando técnicas de web scraping. O projeto também envolve uma análise exploratória dos dados coletados e a construção de um modelo de machine learning para prever os preços dos imóveis no Litoral do RS.**
 
 [Leia mais sobre o projeto no Medium](https://medium.com/@diovani.dupont/web-scraping-eda-e-modelo-para-previs%C3%A3o-de-pre%C3%A7os-3c4cf24e252e)
-
